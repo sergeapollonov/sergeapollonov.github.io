@@ -894,9 +894,10 @@ nav {
   .choice {
     padding: 33px 0;
     min-height: 390px;
+    background: #070716;
   }
   .choice_topbg {
-    height: 390px;
+    display: none;
   }
   .choice img {
     margin: 35px auto 0 auto;
